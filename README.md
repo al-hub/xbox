@@ -3,8 +3,8 @@ HW: xs, tabs6, elite2, moga.
 SW: gamepass, rdr2  
 wish: mxflex3, surface  
 
-# experienced games  
+# experiencing games  
 hades  
-akam night  
+arkham knight  
 rdr2  
 ittakestwo  
